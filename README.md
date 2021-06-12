@@ -8,3 +8,7 @@
 
 
 :round_pushpin: PROJECTS
+
+1. **Association Rule Learning Recommender**
+ 
+2. **Hybrid Recommender System**
