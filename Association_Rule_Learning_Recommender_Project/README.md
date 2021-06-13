@@ -5,7 +5,15 @@
 
  :file_folder:  Business Problem
  
+Association Rule was one of the first techniques used in data mining.Today, these rules are also referred to as the "Recommendation System".
+It aims to make predictions about future sales by analyzing the patterns of transactions in the past and using this information.It is a rule-based machine learning technique.It reveals the rules of being together with certain probabilities. “Which products are sold together?” It helps us find the answer to the question.
+Some usage areas:
+-Catalog designs
+-Product placement on the shelves of stores
+-Creating customer profiles
+-Campaign preparation
 
+In our project, we use the retail data set, which is the e-commerce data set we used in previous projects. Our aim in this project is to suggest products to users at the basket stage.
 
 :white_check_mark:  Dataset Information
 
