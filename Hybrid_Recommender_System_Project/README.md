@@ -5,7 +5,7 @@
 
  :file_folder:  Business Problem
  
-
+Recommending a movie for a selected user using the item-based and user-based recommender methods
 
 
 :white_check_mark:  Dataset Information
