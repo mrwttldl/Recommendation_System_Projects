@@ -1,4 +1,4 @@
-:link: Association Rule Learning Recommender Project
+## :link: Association Rule Learning Recommender Project
 
 ![](https://camo.githubusercontent.com/db407b8095597c1ca11f3ce9983bc16957aa536241ba9f11c1fc14421f8474d1/68747470733a2f2f646174616d617468737461742e66696c65732e776f726470726573732e636f6d2f323031382f30322f756e7469746c65642e706e673f773d31313738)
 
